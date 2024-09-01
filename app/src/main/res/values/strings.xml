@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Activity1</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="From">From</string>
+    <string name="select_currency">Select Currency</string>
+    <string name="dollar_usd">Dollar (USD)</string>
+    <string name="to">To</string>
+    <string name="amount">Amount</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="convert">Convert</string>
+    <string name="result">Result</string>
+    <string name="the_result">The Result</string>
+</resources>
